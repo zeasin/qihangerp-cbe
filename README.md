@@ -84,30 +84,31 @@
 
 
 
-
-## 四、期待您的支持
+## 四、支持一下
 
 **感谢大家的关注与支持！希望利用本人从事电商10余年的经验帮助到大家提升工作效率！**
 
-💖 如果觉得有用记得点 Star⭐
+### 4.1 赠人玫瑰手留余香
+💖 如果觉得有用记得点个 Star⭐
+
+<img src="docs/star.jpg" width="300px" />
+
+### 4.2 一起交流
+
+💖 欢迎加入知识星期获得作者帮助和朋友们一起交流！
+
++ 知识星球
+
+   <img src="docs/知识星球.jpg" width="300px" />
 
 
-### 4.1 关注公众号
-
-更多服务，请关注作者微信公众号：qihangerp168
-
-<img src="docs/公众号.jpg" width="300px" />
-
-
-💖 欢迎一起交流！
-
-### 4.2 捐助项目
+### 4.3 捐助作者
 作者为兼职做开源,平时还需要工作,如果帮到了您可以请作者吃个盒饭
 
-<img src="docs/weixinzhifu.jpg" width="300px" />
-<img src="docs/zhifubao.jpg" width="300px" />
+<img src="docs/微信收款码.jpg" width="300px" />
+<img src="docs/支付宝收款码.jpg" width="300px" />
 
+### 4.4 获取授权与服务
 
-
-
+[如何获取授权与服务](https://mp.weixin.qq.com/s/mATn2nfc5bUePohS_s2WGw)
 
