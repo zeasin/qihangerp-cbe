@@ -19,7 +19,7 @@
     <url>http://maven.apache.org</url>
     <modules>
         <module>sys-api</module>
-        <module>scm-api</module>
+        <module>oms-api</module>
     </modules>
     <properties>
         <java.version>17</java.version>

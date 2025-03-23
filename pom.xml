@@ -9,11 +9,11 @@
       </parent>
 
     <groupId>com.qihang</groupId>
-    <artifactId>qihangerp-scm</artifactId>
+    <artifactId>qihangerp-cbe</artifactId>
     <version>0.9.7</version>
     <packaging>pom</packaging>
 
-    <name>qihangerp-scm</name>
+    <name>qihangerp-cbe</name>
     <url>http://maven.apache.org</url>
     <modules>
         <module>api</module>
