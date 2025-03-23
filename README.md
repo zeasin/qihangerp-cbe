@@ -97,6 +97,10 @@
 
 💖 欢迎加入知识星期获得作者帮助和朋友们一起交流！
 
++ 微信公众号
+
+<img src="docs/微信公众号.jpg" width="300px" />
+
 + 知识星球
 
    <img src="docs/知识星球.jpg" width="300px" />
